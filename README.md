@@ -1,4 +1,3 @@
-# Delivery_Duration_Project
 # Delivery Duration Prediction
 
 This repository contains an end-to-end data science project focused on predicting the delivery duration of food orders. The project is based on a dataset from StrataScratch and follows a structured approach from data exploration and feature engineering to model building and evaluation using both classical machine learning and deep learning techniques.
