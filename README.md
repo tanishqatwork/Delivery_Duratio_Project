@@ -76,11 +76,4 @@ A comparative analysis is provided for all models. The key insights include:
 - The best performing models in terms of accuracy.
 - Observations on the impact of data scaling and inverse transformations on error metrics.
 
----
 
-## How to Use
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/your-username/delivery-duration-prediction.git
-   cd delivery-duration-prediction
