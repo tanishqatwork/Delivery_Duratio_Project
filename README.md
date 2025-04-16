@@ -21,7 +21,7 @@ This repository contains an end-to-end data science project focused on predictin
 
 ## Assignment
 
-The goal of this project is to accurately predict the total delivery duration from the time an order is placed until it is delivered to the customer. The project leverages a variety of features including estimated driving durations, store preparation times, and more to build predictive models.
+The goal of this project is to accurately predict the total delivery duration from the time an order is placed until it is delivered. This project leverages a variety of features and uses data sourced from [Kaggle – DoorDash ETA Prediction Dataset](https://www.kaggle.com/datasets/dharun4772/doordash-eta-prediction).
 
 ---
 
